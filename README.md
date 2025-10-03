@@ -9,7 +9,7 @@
 ## 📌 Overview
 This **AutoHotkey** script prevents Roblox from kicking you out after **20 minutes of inactivity**.  
 
-✨ Unlike basic AFK scripts, this one gives you **freedom to use your PC** without interruptions. It automatically opens Roblox, presses a key, and minimizes it back in a **blink of an eye**.  
+Unlike basic AFK scripts, this one gives you **freedom to use your PC** without interruptions. It automatically opens Roblox, presses a key, and minimizes it back in a **blink of an eye**.  
 
 ---
 
